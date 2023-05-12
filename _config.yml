@@ -1,0 +1,6 @@
+title: Trey O. Phelps
+description: ESIIL Advanced Intern from OLC
+logo: img/github_selfie
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
