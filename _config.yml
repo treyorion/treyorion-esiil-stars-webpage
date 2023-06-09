@@ -1,6 +1,6 @@
 title: Trey O. Phelps
 description: <h2>ESIIL Advanced Intern</h2>
-logo: ![image](https://avatars.githubusercontent.com/u/86793398?s=400&u=a8fbe84f623db4139fd2d6243498df7c4f102593&v=4)
+logo: img/github_selfie_2.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
